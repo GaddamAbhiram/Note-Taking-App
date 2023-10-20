@@ -1,8 +1,6 @@
 # My Awesome Note-Taking App
 
-![App Logo](link_to_your_app_logo.png)
-
-My Awesome Note-Taking App is a powerful note-taking solution built with EJS, Express.js, and MongoDB. This app allows you to create, edit, and organize your notes efficiently.
+Our Awesome Note-Taking App developed by myself and @Heisenberg26 is a powerful note-taking solution built with EJS, Express.js, and MongoDB. This app allows you to create, edit, and organize your notes efficiently.
 
 ## Features
 
@@ -12,11 +10,6 @@ My Awesome Note-Taking App is a powerful note-taking solution built with EJS, Ex
 - **Search**: Quickly find the note you need with a powerful search feature.
 - **Sync Across Devices**: Access your notes from anywhere, thanks to cloud sync.
 - **Markdown Support**: Write notes with Markdown for rich formatting.
-
-## Screenshots
-
-![Screenshot 1](https://imgur.com/your_screenshot_link_1)
-![Screenshot 2](https://imgur.com/your_screenshot_link_2)
 
 ## Installation
 
